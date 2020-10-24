@@ -1,0 +1,11 @@
+C:\Users\CunaRigelKent(Studen\source\repos\HandsOnActivity1\HandsOnActivity1\bin\Debug\HandsOnActivity1.exe.config
+C:\Users\CunaRigelKent(Studen\source\repos\HandsOnActivity1\HandsOnActivity1\bin\Debug\HandsOnActivity1.exe
+C:\Users\CunaRigelKent(Studen\source\repos\HandsOnActivity1\HandsOnActivity1\bin\Debug\HandsOnActivity1.pdb
+C:\Users\CunaRigelKent(Studen\source\repos\HandsOnActivity1\HandsOnActivity1\obj\Debug\HandsOnActivity1.csprojAssemblyReference.cache
+C:\Users\CunaRigelKent(Studen\source\repos\HandsOnActivity1\HandsOnActivity1\obj\Debug\HandsOnActivity1.frmConfirmation.resources
+C:\Users\CunaRigelKent(Studen\source\repos\HandsOnActivity1\HandsOnActivity1\obj\Debug\HandsOnActivity1.frmRegistration.resources
+C:\Users\CunaRigelKent(Studen\source\repos\HandsOnActivity1\HandsOnActivity1\obj\Debug\HandsOnActivity1.Properties.Resources.resources
+C:\Users\CunaRigelKent(Studen\source\repos\HandsOnActivity1\HandsOnActivity1\obj\Debug\HandsOnActivity1.csproj.GenerateResource.cache
+C:\Users\CunaRigelKent(Studen\source\repos\HandsOnActivity1\HandsOnActivity1\obj\Debug\HandsOnActivity1.csproj.CoreCompileInputs.cache
+C:\Users\CunaRigelKent(Studen\source\repos\HandsOnActivity1\HandsOnActivity1\obj\Debug\HandsOnActivity1.exe
+C:\Users\CunaRigelKent(Studen\source\repos\HandsOnActivity1\HandsOnActivity1\obj\Debug\HandsOnActivity1.pdb
